@@ -12,8 +12,8 @@ IMAGE 1 FILE
 
 IMAGE 1 ALT TEXT
 
-`Modern Transit`
-
+`M Transit`
+odern
 SMALLER SUB HEAD
 
 `Travel`
